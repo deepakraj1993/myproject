@@ -176,3 +176,5 @@
 	END OF TERMS AND CONDITIONS
 
  EXPERIMENTING ON AUTOMATION
+
+Checking the full cycle - From Git to Github, Jenkins, Ant, & Tomcat
